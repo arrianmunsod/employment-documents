@@ -14,6 +14,4 @@ This repository contains my professional documents for employment and career opp
 
 These documents are provided for professional reference, employment applications, and verification of qualifications.
 
-## Contact
 
-For employment opportunities, inquiries, or additional information, please refer to the contact details in my resume.
